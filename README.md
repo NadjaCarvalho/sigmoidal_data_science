@@ -7,10 +7,14 @@
 # Nadja Carvalho
 <sub>*Engenheira de Produção, MBA em Gerenciamento de projetos*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
-
+Engenheira de Produção.
+Técnica em Edificações.
+Desenvolvimento pioneiro de ferramentas inteligentes em MS Excel com aplicação de VBA para otimização de processos de Supply.
+Aplicação da metodologia de gerenciamento da Rotina do dia a dia com utilização de Ishikawa, cronogramas, POP (Procedimento Operacional Padrão).
+Formação de equipe de suprimentos e logística.
+Melhorias de Layout de armazenagem de produtos - alumínio laminado.
+Implantação de gestão de processos em empresa de distribuição de alumínio, utilizando SIPOC, PDCA.
+Dois artigos publicados no ENEGEP ( Encontro Nacional de Engenharia de Produção). Em 2014, Otimização de transportes utilizando o suplemento do Excel - Solver para função "ótima" de redução de custos, em 2016, Otimização do processo de sugestão de compras, voltado para o ramo de matéria prima para fabricação de esquadrias de alumínio.
 **Background in:** Gestão de estoques, inventários, Excel e VBA.
 
 **Links:**
