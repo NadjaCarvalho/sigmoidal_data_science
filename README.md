@@ -14,8 +14,9 @@ Melhorias de Layout de armazenagem de produtos - alumínio laminado.
 Implantação de gestão de processos em empresa de distribuição de alumínio, utilizando SIPOC, PDCA.
 
 **Publicações**
-* (http://www.abepro.org.br/biblioteca/enegep2014_TN_STP_200_134_25804.pdf)
-Dois artigos publicados no ENEGEP ( Encontro Nacional de Engenharia de Produção). Em 2014, Otimização de transportes utilizando o suplemento do Excel - Solver para função "ótima" de redução de custos, em 2016, Otimização do processo de sugestão de compras, voltado para o ramo de matéria prima para fabricação de esquadrias de alumínio.
+* Otimização de planejamento de transporte utilizando programação linear - (http://www.abepro.org.br/biblioteca/enegep2014_TN_STP_200_134_25804.pdf)- Otimização de planejamento de transporte utilizando programação linear.
+
+* Otimização do processo de sugestão de compras - (http://www.abepro.org.br/biblioteca/TN_STP_226_318_28901.pdf) - Otimização do processo de sugestão de compras.
 
 **Background in:** Gestão de estoques, inventários, Excel e VBA.
 
