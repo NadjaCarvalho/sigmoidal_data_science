@@ -1,7 +1,7 @@
 [![author](https://img.shields.io/badge/author-NadjaCarvalho-red.svg)](https://www.linkedin.com/in/carlosfab) [![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/carlosfab/data_science/issues)
 
 <p align="center">
-  <img src=https://github.com/carlosfab/template_portfolio/blob/master/banner.png >
+  <img src=https://github.com/NadjaCarvalho/sigmoidal_data_science/blob/c1f615d46b46f0413d54a834357a3db6c99b8a51/banner%20(1).png >
 </p>
 
 # Nadja Carvalho
