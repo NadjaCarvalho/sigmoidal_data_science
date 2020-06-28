@@ -7,7 +7,7 @@ Template para portfólio de Data Science
   <img src = "banner.png">
 </p>
 
-#  Carlos Melo
+# Nadja Carvalho
 <sub> * Cientista de dados líder * no Space Operations Center </sub>
 
 Como cientista de dados experiente e piloto da Força Aérea, eu combino habilidades analíticas, capacidade de trabalhar em ambientes de equipe e atenção aos detalhes. Depois de passar os últimos anos aplicando o Machine Learning a problemas reais da Força Aérea Brasileira, desenvolvi um pensamento crítico e habilidades de resolução de problemas.
