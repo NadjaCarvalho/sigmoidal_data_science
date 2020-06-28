@@ -7,14 +7,16 @@
 # Nadja Carvalho
 <sub>*Engenheira de Produção, MBA em Gerenciamento de projetos*</sub>
 
-Engenheira de Produção.
-Técnica em Edificações.
-Desenvolvimento pioneiro de ferramentas inteligentes em MS Excel com aplicação de VBA para otimização de processos de Supply.
+Desenvolvimento de ferramentas inteligentes em MS Excel com aplicação de VBA para otimização de processos de Supply.
 Aplicação da metodologia de gerenciamento da Rotina do dia a dia com utilização de Ishikawa, cronogramas, POP (Procedimento Operacional Padrão).
 Formação de equipe de suprimentos e logística.
 Melhorias de Layout de armazenagem de produtos - alumínio laminado.
 Implantação de gestão de processos em empresa de distribuição de alumínio, utilizando SIPOC, PDCA.
+
+**Publicações**
+* (http://www.abepro.org.br/biblioteca/enegep2014_TN_STP_200_134_25804.pdf)
 Dois artigos publicados no ENEGEP ( Encontro Nacional de Engenharia de Produção). Em 2014, Otimização de transportes utilizando o suplemento do Excel - Solver para função "ótima" de redução de custos, em 2016, Otimização do processo de sugestão de compras, voltado para o ramo de matéria prima para fabricação de esquadrias de alumínio.
+
 **Background in:** Gestão de estoques, inventários, Excel e VBA.
 
 **Links:**
