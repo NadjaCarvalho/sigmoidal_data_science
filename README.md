@@ -5,7 +5,7 @@
 </p>
 
 # Nadja Carvalho
-<sub>*Engenheira de Produção, MBA em Gerenciamento de projetos, estudante de Data Science na Prática (DSP)* </sub
+<sub>*Engenheira de Produção, MBA em Gerenciamento de projetos, estudante de Data Science na Prática (DSP)* 
 
 Desenvolvimento de ferramentas inteligentes em MS Excel com aplicação de VBA para otimização de processos de Supply.
 Aplicação da metodologia de gerenciamento da Rotina do dia a dia com utilização de Ishikawa, cronogramas, POP (Procedimento Operacional Padrão).
